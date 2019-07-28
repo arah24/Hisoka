@@ -1,9 +1,9 @@
 {
     "name": "hisoka-theme",
     "displayName": "Hisoka Theme",
-    "description": "Dark theme inspired by Dracula",
-    "icon": "resources/hisoka-icon.png",
-    "version": "0.0.1",
+    "description": "Dark theme inspired by Dracula",]
+    "icon": "images/hisoka-icon.png",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "git@github.com:arah24/Hisoka.git"
