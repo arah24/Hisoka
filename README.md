@@ -9,12 +9,5 @@ This is the first version, mainly designed for my own experience - if you'd like
 ## Install
 Font used - Fira Code. (https://github.com/tonsky/FiraCode)
 
-## Demo
-
-### JavaScript - Editor
-![js](./resources/editor-preview.png)
-
-### Editor - Command Bar
-![js](./resources/command-toolbar-preview.png)
 
 ## Contribute
