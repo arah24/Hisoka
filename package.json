@@ -1,0 +1,30 @@
+{
+    "name": "hisoka-theme",
+    "displayName": "Hisoka Theme",
+    "description": "Dark theme inspired by Dracula",
+    "version": "0.0.1",
+    "icon" : "resourceshisoka-icon.png",
+    "publisher": "abidrah",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "color-theme",
+        "theme",
+        "vivid",
+        "dark",
+        "dracula"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hisoka",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hisoka-color-theme.json"
+            }
+        ]
+    }
+}
