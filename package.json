@@ -1,7 +1,7 @@
 {
     "name": "hisoka-theme",
     "displayName": "Hisoka Theme",
-    "description": "Dark theme inspired by Dracula",]
+    "description": "Dark theme inspired by Dracula",
     "icon": "images/hisoka-icon.png",
     "version": "0.0.3",
     "repository": {
