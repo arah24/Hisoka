@@ -9,4 +9,13 @@ This is the first version, mainly designed for my own experience - if you'd like
 ## Install
 Font used - Fira Code. (https://github.com/tonsky/FiraCode)
 
-## Contribute
+## Demo
+
+## Editor 
+
+![Preview of the editor ](https://i.ibb.co/VxQxWPw/editor-preview.png)
+
+## List of files /  commands tool bar 
+
+![Preview of when running commands ](https://i.ibb.co/5cwLg90/command-toolbar-preview.png)
+
